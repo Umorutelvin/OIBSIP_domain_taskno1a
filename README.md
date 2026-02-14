@@ -33,6 +33,7 @@ The main objective of this project is to analyze retail sales data to understand
 6. Insights and Recommendations
 
 COMPREHENSIVE PERFORMANCE REPORT:
+
                    Metric              Value
                    
             Total Revenue        $456,000.00
