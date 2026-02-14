@@ -34,18 +34,31 @@ The main objective of this project is to analyze retail sales data to understand
 
 COMPREHENSIVE PERFORMANCE REPORT:
                    Metric              Value
+                   
             Total Revenue        $456,000.00
+            
              Total Profit    $-26,904,000.00
+             
              Gross Margin      -5900.000000%
+             
        Total Transactions               1000
+       
          Total Units Sold               2514
+         
 Average Transaction Value            $456.00
+
     Units per Transaction               2.51
+    
           Total Customers               1000
+          
    Repeat Purchase Rate %               0.0%
+   
    Average Customer Value            $456.00
+   
              Estimate CLV            $684.00
+             
               Average Age         41.4 years
+              
         Male/Female Ratio 490 /\n        510
 
 📈 Key Insights and strategic recommendations
