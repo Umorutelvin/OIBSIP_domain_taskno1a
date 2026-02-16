@@ -62,6 +62,17 @@ Average Transaction Value            $456.00
               
         Male/Female Ratio 490 /\n        510
 
+⚠️ Analysis Note: Profit & Margin Insights
+While the dataset shows a Total Revenue of $456,000, the calculated Total Profit is -$26,904,000, resulting in a significant negative gross margin.
+
+Technical Interpretation:
+
+Data Outliers: This suggests that the "Cost of Goods" or "Operating Expenses" in the provided dataset significantly outweigh the sales price per unit.
+
+Business Implication: From a data analyst's perspective, this highlights a critical "Burn Rate" scenario. If this were a real-world business, the immediate recommendation would be a drastic audit of the supply chain costs or pricing strategy, as the current model is not sustainable.
+
+Analysis Focus: For the purpose of this EDA, the primary focus remained on Sales Trends and Customer Demographics to identify where growth potential exists.
+
 📈 Key Insights and strategic recommendations
 1. Top-performing category generates the most revenue
 2. Consider loyalty programs to increase repeat purchase rate
